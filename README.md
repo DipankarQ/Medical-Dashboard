@@ -2,6 +2,9 @@
 
 A modern React-based medical dashboard application for displaying and monitoring patient health information. The dashboard provides a comprehensive view of patient demographics, vital signs, diagnosis history, diagnostic test results, and lab work.
 
+
+<img width="1364" height="605" alt="Screenshot 2026-04-24 130516" src="https://github.com/user-attachments/assets/11beef1e-0a6d-4a07-8f1d-8c948b343aee" />
+
 ## Table of Contents
 
 - [Features](#features)
