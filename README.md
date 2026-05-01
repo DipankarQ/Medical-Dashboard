@@ -41,30 +41,8 @@ A modern React-based medical dashboard application for displaying and monitoring
 - **Linting**: ESLint 9.36.0 with React plugins
 - **Development Environment**: Node.js 16+ recommended
 
-## Prerequisites
 
-Before you begin, ensure you have the following installed:
 
-- **Node.js** (v16 or higher) — [Download here](https://nodejs.org/)
-- **npm** (comes with Node.js)
-- **Git** (for cloning the repository)
-
-## Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone <repository-url>
-cd dashboard
-```
-
-### 2. Install Dependencies
-
-```bash
-npm install
-```
-
-This will install all required packages including React, Vite, Axios, and Chart.js.
 
 ### 3. Configure API Endpoint
 
