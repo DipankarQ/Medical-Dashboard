@@ -7,6 +7,7 @@ A modern React-based medical dashboard application for displaying and monitoring
 
 ## Table of Contents
 
+
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Prerequisites](#prerequisites)
