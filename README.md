@@ -1,5 +1,6 @@
 # Medical Dashboard
 
+
 A modern React-based medical dashboard application for displaying and monitoring patient health information. The dashboard provides a comprehensive view of patient demographics, vital signs, diagnosis history, diagnostic test results, and lab work.
 
 
